@@ -5,7 +5,11 @@ public class HelloWorld {
 		// TODO Auto-generated method stub
       System.out.println("Hello World");
       System.out.println("hotfix Code Write!!!");
+<<<<<<< HEAD
       System.out.println("Master Code Write!!!");
+=======
+      System.out.println("hotfix Code Write 2nd!!!");
+>>>>>>> refs/heads/hotfix
 	}
 
 }
